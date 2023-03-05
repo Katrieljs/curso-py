@@ -1,0 +1,13 @@
+Los datos son: 
+Nombre: juan
+Apellido: morales
+----------
+Nombre: pedro
+Apellido: cando
+----------
+Nombre: lucas
+Apellido: perez
+----------
+Nombre: julian
+Apellido: rosas
+----------
